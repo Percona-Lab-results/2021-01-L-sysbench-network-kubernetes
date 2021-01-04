@@ -1,0 +1,5 @@
+server: ps8
+buffer_pool: 6
+randtype: pareto
+threads: 2
+host: sys2
